@@ -75,7 +75,7 @@ tensorflow
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/antonbeski0/point_blank.stream.git
+git clone https://github.com/antonbeski0/point_blank_mvp
 cd point_blank.stream
 ```
 
